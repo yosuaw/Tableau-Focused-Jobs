@@ -2,6 +2,8 @@
 
 Link to the dashboard: https://public.tableau.com/app/profile/yosuaw/viz/3_5_final_dashboard_solution_16938166436980/JobAnalytics
 
+![image](https://github.com/yosuaw/Tableau-Focused-Jobs/assets/80568597/7b523c84-2d42-4acd-98c8-6ee0308f078b)
+
 An Interactive Dashboard to summarize insights regarding job positions, skills, and companies needed in the realm of Data Science, including Data Scientist, Data Analyst, Data Engineer, Machine Learning Engineer, and Data Science Manager job position. In addition, the scope of business insights used is limited to job positions that require <b>Tableau</b> skills.
 
 ## Steps:
