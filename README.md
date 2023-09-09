@@ -15,7 +15,7 @@ An Interactive Dashboard to summarize insights regarding job positions, skills, 
 ## Analysis:
 • There are 119 unique industries and the most applicants apply for a job in Information Technology & Services. Sadly, there are no applicants that apply for jobs in Fundraising and Apparel & Fashion industries
 
-• In this scope of Exploratory Data Analysis (EDA), there are 27.335 number of applicants with 1.298 number of job postings in the dataset
+• In this scope of Exploratory Data Analysis (EDA), there are 27335 number of applicants with 1298 number of job postings in the dataset
 
 • On averages, Internship position level has a low average years of experience with only 0.17 years or approximately 2 months! Otherwise, Executive position level has very high average years of experience, that is 15 years
 
